@@ -1,0 +1,80 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #2f3035;
+    background-image: url(images/juiceback.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.459);
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-left: 240px;
+    padding-right: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+section iframe {
+    border-radius: 5px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.753);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-size: 84px;
+    color: rgb(255, 255, 255);
+}
+
+p {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    text-decoration-line: underline;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+footer p {
+    font-size: 10px;
+}
